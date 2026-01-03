@@ -22,11 +22,11 @@ The intent is to **complement**, not replace, established frameworks and standar
 
 ### 2.1 OWASP AI and LLM Security Efforts
 
-:contentReference[oaicite:0]{index=0} maintains community-driven guidance for application security, including recent initiatives focused on AI and LLM risks.
+The Open Web Application Security Project (OWASP) maintains community-driven guidance for application security, including recent initiatives focused on AI and large language model (LLM) risks.
 
 **What OWASP provides well**
-- High-level risk framing (e.g., AI / LLM Top 10)
-- Broad community participation
+- High-level risk framing (e.g., AI / LLM Top 10 lists)
+- Broad community participation and visibility
 - Familiar structure for developers and security teams
 
 **Limitations**
@@ -36,7 +36,6 @@ The intent is to **complement**, not replace, established frameworks and standar
 
 SnowcrashAI builds on OWASP-style risk framing while extending into **test execution, defensive architecture, and assurance evidence**.
 
----
 
 ### 2.2 MITRE Adversarial ML and ATLAS
 
