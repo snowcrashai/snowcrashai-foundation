@@ -39,7 +39,7 @@ SnowcrashAI builds on OWASP-style risk framing while extending into **test execu
 
 ### 2.2 MITRE Adversarial ML and ATLAS
 
-:contentReference[oaicite:1]{index=1} maintains adversarial machine learning knowledge bases, including ATT&CK-style taxonomies for AI threats.
+ maintains adversarial machine learning knowledge bases, including ATT&CK-style taxonomies for AI threats.
 
 **What MITRE provides well**
 - Structured adversary technique taxonomy
