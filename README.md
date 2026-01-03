@@ -53,3 +53,8 @@ Please see `GOVERNANCE/contribution-guidelines.md` for details.
 ## Disclaimer
 
 SnowcrashAI materials are provided for educational and defensive security purposes only.
+
+---
+
+### Operational Scope Notice
+SnowcrashAI maintains internal operational and security controls to support private research validation, demonstrations, and client engagements. These operational details are intentionally out of scope for this public repository and are not disclosed here.
