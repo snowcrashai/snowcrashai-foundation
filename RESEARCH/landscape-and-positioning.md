@@ -57,7 +57,7 @@ SnowcrashAI complements MITRE by translating **threat knowledge into executable 
 
 ### 2.3 NIST AI Risk Management Framework (AI RMF)
 
-:contentReference[oaicite:2]{index=2} provides a comprehensive, governance-oriented framework for managing AI risk.
+provides a comprehensive, governance-oriented framework for managing AI risk.
 
 **What NIST provides well**
 - Authoritative public-sector guidance
